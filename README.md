@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/manishjoshii/LeetHub/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishjoshii/LeetHub/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
