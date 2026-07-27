@@ -5,7 +5,7 @@ class Solution {
         while (i <= j) {
             if (nums[i] == val) {
                 nums[i] = nums[j];
-                nums[j] = -1;
+                // nums[j] = -1;     even without marking element as -1 just by swapping we can consider as removed
                 j--;
             } else {
                 i++;
