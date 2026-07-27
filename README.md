@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/manishjoshii/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/manishjoshii/LeetHub/tree/master/0027-remove-element) |
+| [0142-linked-list-cycle-ii](https://github.com/manishjoshii/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0443-string-compression](https://github.com/manishjoshii/LeetHub/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/manishjoshii/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
