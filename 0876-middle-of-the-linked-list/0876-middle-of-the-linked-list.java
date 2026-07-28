@@ -13,17 +13,30 @@ class Solution {
         if (head == null || head.next == null)
             return head;
 
-        ListNode temp = head;
-        int length = 0;
-        while (temp != null) {
-            temp = temp.next;
-            length++;
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        for (int i = 0; i < length / 2; i++) {
-            head = head.next;
-        }
-        
-        return head;
+        return slow;
     }
+    // public ListNode middleNode(ListNode head) {
+    //     if (head == null || head.next == null)
+    //         return head;
+
+    //     ListNode temp = head;
+    //     int length = 0;
+    //     while (temp != null) {
+    //         temp = temp.next;
+    //         length++;
+    //     }
+
+    //     for (int i = 0; i < length / 2; i++) {
+    //         head = head.next;
+    //     }
+
+    //     return head;
+    // }
 }
