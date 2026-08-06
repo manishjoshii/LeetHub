@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manishjoshii/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/manishjoshii/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manishjoshii/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishjoshii/LeetHub/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/manishjoshii/LeetHub/tree/master/2390-removing-stars-from-a-string) |
@@ -90,8 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manishjoshii/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/manishjoshii/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manishjoshii/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/manishjoshii/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
