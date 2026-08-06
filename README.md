@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/manishjoshii/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manishjoshii/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manishjoshii/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishjoshii/LeetHub/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/manishjoshii/LeetHub/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/manishjoshii/LeetHub/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/manishjoshii/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishjoshii/LeetHub/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/manishjoshii/LeetHub/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
+| [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manishjoshii/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manishjoshii/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
