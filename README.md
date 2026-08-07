@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manishjoshii/LeetHub/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/manishjoshii/LeetHub/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manishjoshii/LeetHub/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/manishjoshii/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manishjoshii/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manishjoshii/LeetHub/tree/master/0234-palindrome-linked-list) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manishjoshii/LeetHub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
