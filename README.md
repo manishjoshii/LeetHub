@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/manishjoshii/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manishjoshii/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/manishjoshii/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishjoshii/LeetHub/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/manishjoshii/LeetHub/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manishjoshii/LeetHub/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/manishjoshii/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manishjoshii/LeetHub/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/manishjoshii/LeetHub/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
