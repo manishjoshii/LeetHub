@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manishjoshii/LeetHub/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manishjoshii/LeetHub/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manishjoshii/LeetHub/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## DP on Trees
 |  |
 | ------- |
