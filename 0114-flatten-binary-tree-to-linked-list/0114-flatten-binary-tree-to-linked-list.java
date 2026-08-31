@@ -14,29 +14,41 @@
  * }
  */
 class Solution {
-    List<Integer> list;
+    TreeNode nextRight = null;
 
     public void flatten(TreeNode root) {
-        list = new ArrayList<>();
-        preOrder(root);
-        for (int i = 1; i < list.size(); i++) {
-            int val = list.get(i);
-            root.right = new TreeNode(val);
-            if (i == 1) {
-                root.left = null;
-            }
-            root = root.right;
-        }
-    }
-
-    public void preOrder(TreeNode root) {
         if (root == null) {
             return;
         }
+        flatten(root.right);
+        flatten(root.left);
 
-        list.add(root.val);
-        preOrder(root.left);
-        preOrder(root.right);
+        root.left = null;
+        root.right = nextRight;
+        nextRight = root;
     }
+
+    // public void flatten(TreeNode root) {
+    //     list = new ArrayList<>();
+    //     preOrder(root);
+    //     for (int i = 1; i < list.size(); i++) {
+    //         int val = list.get(i);
+    //         root.right = new TreeNode(val);
+    //         if (i == 1) {
+    //             root.left = null;
+    //         }
+    //         root = root.right;
+    //     }
+    // }
+
+    // public void preOrder(TreeNode root) {
+    //     if (root == null) {
+    //         return;
+    //     }
+
+    //     list.add(root.val);
+    //     preOrder(root.left);
+    //     preOrder(root.right);
+    // }
 
 }
