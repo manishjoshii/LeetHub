@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manishjoshii/LeetHub/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Doubly-Linked List
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manishjoshii/LeetHub/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/manishjoshii/LeetHub/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/manishjoshii/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/manishjoshii/LeetHub/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manishjoshii/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
