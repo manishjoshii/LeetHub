@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/manishjoshii/LeetHub/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/manishjoshii/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishjoshii/LeetHub/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/manishjoshii/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manishjoshii/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manishjoshii/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/manishjoshii/LeetHub/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishjoshii/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manishjoshii/LeetHub/tree/master/2073-time-needed-to-buy-tickets) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/manishjoshii/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
@@ -254,4 +258,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manishjoshii/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manishjoshii/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manishjoshii/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
