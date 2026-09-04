@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manishjoshii/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishjoshii/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/manishjoshii/LeetHub/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/manishjoshii/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishjoshii/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/manishjoshii/LeetHub/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/manishjoshii/LeetHub/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishjoshii/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manishjoshii/LeetHub/tree/master/2073-time-needed-to-buy-tickets) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/manishjoshii/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/manishjoshii/LeetHub/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
