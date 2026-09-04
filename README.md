@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manishjoshii/LeetHub/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishjoshii/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manishjoshii/LeetHub/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/manishjoshii/LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/manishjoshii/LeetHub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/manishjoshii/LeetHub/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/manishjoshii/LeetHub/tree/master/0088-merge-sorted-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/manishjoshii/LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/manishjoshii/LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manishjoshii/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
