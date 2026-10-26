@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manishjoshii/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishjoshii/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/manishjoshii/LeetHub/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/manishjoshii/LeetHub/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishjoshii/LeetHub/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/manishjoshii/LeetHub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishjoshii/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/manishjoshii/LeetHub/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
