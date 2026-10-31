@@ -17,16 +17,16 @@ class Solution {
             return h1;
         }
 
-        ListNode result;
+        ListNode head;
 
         if (h1.val <= h2.val) {
-            result = h1;
-            result.next = mergeTwoLists(h1.next, h2);
+            head = h1;
+            head.next = mergeTwoLists(h1.next, h2);
         } else {
-            result = h2;
-            result.next = mergeTwoLists(h1, h2.next);
+            head = h2;
+            head.next = mergeTwoLists(h1, h2.next);
         }
-        return result;
-    }
 
+        return head;
+    }
 }
