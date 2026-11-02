@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manishjoshii/LeetHub/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishjoshii/LeetHub/tree/master/0217-contains-duplicate) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/manishjoshii/LeetHub/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishjoshii/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manishjoshii/LeetHub/tree/master/2073-time-needed-to-buy-tickets) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/manishjoshii/LeetHub/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/manishjoshii/LeetHub/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/manishjoshii/LeetHub/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/manishjoshii/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
