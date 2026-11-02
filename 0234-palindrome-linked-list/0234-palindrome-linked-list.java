@@ -9,31 +9,26 @@
  * }
  */
 class Solution {
+    ListNode curr = null;
+
+    private boolean solve(ListNode head) {
+        if (head == null) {
+            return true;
+        }
+
+        boolean res = solve(head.next);
+
+        if (curr.val != head.val) {
+            return false;
+        }
+
+        curr = curr.next;
+
+        return res;
+    }
+
     public boolean isPalindrome(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        ListNode prev = null;
-
-        while (fast != null && fast.next != null) {
-            fast = fast.next.next;
-
-            ListNode next = slow.next;
-            slow.next = prev;
-            prev = slow;
-            slow = next;
-        }
-
-        if (fast != null) {
-            slow = slow.next;
-        }
-
-        while (slow != null && prev != null) {
-            if (slow.val != prev.val) {
-                return false;
-            }
-            slow = slow.next;
-            prev = prev.next;
-        }
-        return true;
+        curr = head;
+        return solve(head);
     }
 }
