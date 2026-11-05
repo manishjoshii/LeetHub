@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/manishjoshii/LeetHub/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/manishjoshii/LeetHub/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/manishjoshii/LeetHub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manishjoshii/LeetHub/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/manishjoshii/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishjoshii/LeetHub/tree/master/0503-next-greater-element-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/manishjoshii/LeetHub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manishjoshii/LeetHub/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/manishjoshii/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manishjoshii/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishjoshii/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manishjoshii/LeetHub/tree/master/0242-valid-anagram) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/manishjoshii/LeetHub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manishjoshii/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/manishjoshii/LeetHub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## DP on Trees
 |  |
 | ------- |
