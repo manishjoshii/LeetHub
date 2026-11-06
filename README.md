@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/manishjoshii/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manishjoshii/LeetHub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manishjoshii/LeetHub/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manishjoshii/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/manishjoshii/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manishjoshii/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manishjoshii/LeetHub/tree/master/0242-valid-anagram) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manishjoshii/LeetHub/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manishjoshii/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/manishjoshii/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manishjoshii/LeetHub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manishjoshii/LeetHub/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manishjoshii/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 ## DP on Trees
 |  |
 | ------- |
