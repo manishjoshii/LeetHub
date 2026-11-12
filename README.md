@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/manishjoshii/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/manishjoshii/LeetHub/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/manishjoshii/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manishjoshii/LeetHub/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Sorting
 |  |
 | ------- |
