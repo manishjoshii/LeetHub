@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/manishjoshii/LeetHub/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/manishjoshii/LeetHub/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishjoshii/LeetHub/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/manishjoshii/LeetHub/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/manishjoshii/LeetHub/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/manishjoshii/LeetHub/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manishjoshii/LeetHub/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/manishjoshii/LeetHub/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/manishjoshii/LeetHub/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
