@@ -1,0 +1,18 @@
+class Solution {
+    public String digitSum(String s, int k) {
+
+        while (s.length() > k) {
+            String next = "";
+            int sum = 0;
+            for (int i = 0; i < s.length(); i++) {
+                sum += s.charAt(i) - '0';
+                if ((i + 1) % k == 0 || i + 1 == s.length()) {
+                    next = next + String.valueOf(sum);
+                    sum = 0;
+                }
+            }
+            s = next;
+        }
+        return s;
+    }
+}
